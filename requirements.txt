@@ -1,0 +1,10 @@
+# Direct dependencies; versions have not been pinned or installation-tested.
+torch
+transformers
+datasets
+tqdm
+scikit-learn
+matplotlib
+jupyterlab
+ipykernel
+ipywidgets
